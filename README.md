@@ -1,2 +1,0 @@
-# coursera-capstone
-practice repo
