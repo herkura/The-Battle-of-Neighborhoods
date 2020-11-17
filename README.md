@@ -1,5 +1,5 @@
 # The-Battle-of-Neighbourhoods
-# Introduction :jack_o_lantern
+# Introduction 
 1) Introduction
 The purpose of this Project is to help people in exploring better facilities in & around their neighborhoods. It will help them in making smart and efficient decisions when selecting their preferred neighborhood out of all the neighborhoods in Scarborough, Toranto. Many people are migrating to Scarborough, Toronto and require a lot og research to find housing prices in their range and good schools for their children. This project will help such people. This Project aims to create an analysis of features for people migrating to Scarborough to search best neighborhoods by comparing neighborhoods with each other. The features include median housing prices and schools according to ratings, crime rates of that particular area, road connectivity, weather conditions, management for emergency, water resources both fresh and waste water and excrement conveyed in sewers and recreational facilities. It will help people to get awareness of the area and neighborhood before moving to a new city, state, country or place for their work or to start a new fresh life.
 # DataSet Used
