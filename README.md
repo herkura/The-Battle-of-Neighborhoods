@@ -45,4 +45,4 @@ Scarborough is a popular destination for new immigrants in Canada to reside. As 
 In this project, using k-means clustering algorithm, I separated the neighborhood into ten clusters and by using 103 different lattitude and logitude from dataset, which have very-similar neighborhoods around them. Through the charts above, results were presented for a particular neighborhood based on average house prices and school ratings.
 # Future Use
 
-This project can further be fine tuned to show precise and best choice housing by incorporating more independent varialbes during clustering stage.
+This project can further be fine-tuned to show precise and best choice housing by incorporating more independent variables during the clustering stage.
