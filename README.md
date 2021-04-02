@@ -15,15 +15,15 @@ We will need data about different venues in different neighborhoods of that spec
 After finding the list of neighborhoods, we then connect to the Foursquare API to gather information about venues inside each and every neighborhood. For each neighborhood, we have chosen the radius to be 100 meter.
 
 The data retrieved from Foursquare contained information of venues within a specified distance of the longitude and latitude of the postcodes. The information obtained per venue as follows:
-
-Neighborhood
-Neighborhood Latitude
-Neighborhood Longitude
-Venue
-Name of the venue e.g. the name of a store or restaurant
-Venue Latitude
-Venue Longitude
-Venue Category
+<ol>
+ <li>Neighborhood Latitude</li>
+ <li>Neighborhood Longitude</li>
+ <li>Venue</li>
+ <li>Name of the venue e.g. the name of a store or restaurant</li>
+ <li>Venue Latitude</li>
+ <li>Venue Longitude</li>
+ <li>Venue Category</li>
+  </ol>
 # Methodology
 
 Clustering Techniques
