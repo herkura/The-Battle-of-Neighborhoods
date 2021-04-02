@@ -24,6 +24,7 @@ The data retrieved from Foursquare contained information of venues within a spec
  <li>Venue Longitude</li>
  <li>Venue Category</li>
   </ol>
+  
 # Methodology
 
 Clustering Techniques
